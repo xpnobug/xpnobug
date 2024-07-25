@@ -1,4 +1,4 @@
-<img width=100% src="./img/header.svg" alt="头部图" />
+
 <p align="center">
     <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge/badge?page_id=xpnobug.readme&title=浏%20览%20次%20数"  />
     <a href="https://blog.reaicc.com/" target="_blank" style="display: inline-block;">
@@ -155,4 +155,4 @@
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=xpnobug&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
 </div>
-<img width=100% src="./img/footer.svg" alt="尾部图"/>
+ 
