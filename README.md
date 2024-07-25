@@ -1,6 +1,6 @@
 <img width=100% src="./img/header.svg" alt="头部图" />
 <p align="center">
-    <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge/badge?page_id=xpnobug.readme"  />
+    <img alt="访问人数" src="https://visitor-badge.laobi.icu/badge/badge?page_id=xpnobug.readme&title=浏%20览%20次%20数"  />
     <a href="https://blog.reaicc.com/" target="_blank" style="display: inline-block;">
         <img alt="个人主页" src="https://img.shields.io/badge/couei-%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE-brightgreen.svg?style=social&logo=blogger&logoColor=lightblue" />
     </a>&nbsp;
@@ -19,7 +19,7 @@
 ---
 - 👋 Hi, I'm xpnobug
 - 🔭 I'm currently working on backend development
-- 📫 How to reach me: [couei@qq.com](mailto:couei@qq.com)
+- 📫 How to reach me: [caoxupei@qq.com](mailto:caoxupei@qq.com)
 - 📖 My motto: “遇见即使上上签。”
 ---
 
